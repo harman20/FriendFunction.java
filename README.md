@@ -1,0 +1,1 @@
+# FriendFunction.java
